@@ -1,0 +1,87 @@
+==================================================================
+https://keybase.io/phelps
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.phelps.io
+  * I am phelps (https://keybase.io/phelps) on keybase.
+  * I have a public key with fingerprint DD83 6806 DD26 D81B 052C  522F 9DF0 26D9 6A84 7392
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e83f38b8719da821e21da5390790a64939418e2a1d74bf81eef3c56b09e4c0550a",
+      "fingerprint": "dd836806dd26d81b052c522f9df026d96a847392",
+      "host": "keybase.io",
+      "key_id": "9df026d96a847392",
+      "kid": "0101e83f38b8719da821e21da5390790a64939418e2a1d74bf81eef3c56b09e4c0550a",
+      "uid": "cfb6ac389a3dfe632de3e3b2651d6800",
+      "username": "phelps"
+    },
+    "merkle_root": {
+      "ctime": 1531949179,
+      "hash_meta": "dc0f447b522ef2498d7a2683b1e27a50062304d5f99350635495aa0c52848687",
+      "seqno": 3287366
+    },
+    "revoke": {
+      "sig_ids": [
+        "4e2ffe000c99f43d62a672f18c72ea52928d463e7514d8012cac797e92ed13160f"
+      ]
+    },
+    "service": {
+      "hostname": "www.phelps.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1531949181,
+  "expire_in": 157680000,
+  "prev": "a38711c6e8e7b33ebe209fbf9e985ebbde95eee6432f866a1c8b7b3fa2dac9c5",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMPZAnicrZN9UBVVGMYh1MGrhWM1iTFq60cfEJ49Zz/OuYI0aiPgB40j6ojO9ezu
+2XuvwL3Xe/cCjhAC5qRmGWl+IuEolmbq0BhOaIBaMkqio6JZmNmMoiKiyWAf1lm0
+aabpz/7a2bPP+7zP+3v3HH0yKsIRWXFnzMWFy0LlkScaw+GIrIx9RUsEzW8sFpxL
+hGzW+2A5BgtZrmyvITgFIAKRYWQirGFVJAbFUGRQNKiMCFAJoIpEEJFEzCAVDVXS
+TCwyZiJdVjRAmKQDWQZUSBBMr8/NgoGg12dxW8PASMFAMQyoGFjUgAx1GUKTGCbg
+J0ShWFIRgbzQ4w/ZFTycRkMs0evnZ/zF1RvvP/T/c+5wr51uagrVESYUGSZTEDQY
+YkiDiiwafA5gC0Ms6KO5jKsDHpYTCAlFCUIuC2bnMFfQ77dstLrltQWijEQiEVEl
+fDwa8rhymUVtKjowJUnVOAlmQolgQ6VQwUjj0VUqA6BABCRDNglBMlCQLBGZUsDJ
+YQkrWOUpQmyRzy84EcQqUhSeIMjy/NnMbh7yujm0kODMEiQGTZMBAHRCTAkZCqSK
+Ck0R6ypkVIYEYkNSEFNlUTIwEKFOdZWojEBmiEhUgCnML7KbBfO8eq+5vaXH0+fn
+5yc+IvBoWYGg3/Lr/hz+yWNZgZDTBmMtDvRqmeZ67OLSvD6D/yS8Io8FQ16/j4Pi
+yn8xw2KCwAoC3iBzeW2FrNr8AbD7sDxuSRFfuKgrDDNVQ4hpDAJiaiZhBMtM0wxG
+ZMaYIiFoYkWhoo41LjQpNKhOdPkfiCJfj0Xd3JOj81ErHGRCUWPDvD4RkY6Ifn2f
+sG9PhKP/oL/v1IZTMX+mjh8zZX1y/oju8vY9SUNobCy8W1kc7hr8oDLYWnamIyP3
+slkzX25rnrc9a0XbgO7w2YY5nSNfthpiaOHn4+YuDRS+0LVy44tXvl/701ttwzuX
+zj0S5fnk46bNI3qOiKVbD9RIsZvLmmBt4vq4CXUHfk6bWBN1LKO2/nzCd5Pm3Pwt
+M3pNTOSscErhSc+i5gVpJ+a923a0rPja/arW5AsRbv+4yjk1jgHLrh6LC5fMHrr1
+QlvTyrXN6zq7UPTkY7RunWPja5/FlT6TXr3wavQvw7ZuumXlVLjGT41/f1T09IdZ
+DV/PaOl8xT0WvJFcPp2hS3VratI7Vn/R4tx9urz1zutPBay0+N8n00Or1leeH+5b
+sXqfM6lPFbuV6p7ZVDutPeZakuPOp2VrZu46/NzO/umo9FzOqdkF0QXvnbzQPvLp
+0y3Vez88v2ri2C1FKfd2762Iy8yY8FHjzb4zMjorNtwA1+Gulm8XRX21YP+rN6T6
+UXkl/ZS6vKT00fcav6l/uK1mr+/+FFf7S28fP9jTP6nc09OcPGRb/ZaSgR+AHZef
+/6N0eWo39qT+eGlZ+zvHiwv6ZO5/9vrUyLNj725vXVrdkrwxbUf99lbhcMpAR7hj
+2vIzXR2j4xMH7vx1WPe52XVX3D9UVJsXb8cWD60qrHpwm17LnD9LXTls7qASC8Z9
+GT8pNmXA4N373pT3rDro79lUe+hEavgv4VUG/w==
+=jDLS
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/phelps
+
+==================================================================
